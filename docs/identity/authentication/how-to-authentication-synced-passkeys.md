@@ -21,11 +21,11 @@ Passkeys (FIDO2) are a strong, phishing resistant alternative to passwords. With
 
 Passkeys are FIDO2-based credentials that provide strong, phishing-resistant authentication. Microsoft Entra ID supports two main types of passkeys:
 
-- Device-bound passkeys: The private key is created and stored on a single physical device and never leaves it. Examples:
+- Device-bound passkeys: Created and stored on a single physical device and never leaves it. Examples:
   - Microsoft Authenticator (iOS)
   - Microsoft Authenticator (Android)
   - Security key
-- Synced passkeys: The private key is stored in a passkey provider’s cloud (such as Apple iCloud Keychain, or Google Password Manager) and synced across the user’s devices. Examples: 
+- Synced passkeys: Securely encrypted and synced across a user's trusted devices via a passkey provider's cloud. Examples: 
   - Apple iCloud Keychain
   - Google Password Manager
 
